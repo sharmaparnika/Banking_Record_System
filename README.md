@@ -74,12 +74,13 @@ If you have nothing to do with the program, you can directly exit from the main 
 Main Menu
 
 
-![image](https://user-images.githubusercontent.com/73773202/150315024-6b9c1dcd-6b45-4524-9ee2-e9484dfff4f8.png)
+![image](https://user-images.githubusercontent.com/73773202/150315769-775d4998-a583-4eb2-8a74-6b140033e58e.png)
 
 
 Customer Accounts
 
-![image](https://user-images.githubusercontent.com/73773202/150315050-843f5216-734e-4abb-ae3b-7eb4dcc54a28.png)
+![image](https://user-images.githubusercontent.com/73773202/150315846-3f200d08-5c21-4363-95b9-03848a02b94b.png)
+
 
 
 ---
